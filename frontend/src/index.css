@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&display=swap");
+
+* {
+  font-family: "Open Sans", sans-serif;
+}
+.myButton {
+  border-radius: 5px !important;
+  border: 1px solid #888 !important;
+  text-transform: capitalize !important;
+  padding-top: 7px !important;
+  padding-bottom: 7px !important;
+  font-size: 16px !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.MuiSvgIcon-fontSizeMedium {
+  color: #90caf9;
+}
+
+.css-10hqp61-MuiButtonBase-root-MuiToggleButton-root.Mui-selected,
+.css-p2x32j-MuiButtonBase-root-MuiToggleButton-root.Mui-selected {
+  /* color: #f44336; */
+  /* background-color: rgba(244, 67, 54, 0.16); */
+
+  color: #90caf9 !important;
+  background-color: rgba(144, 202, 249, 0.219) !important;
+  border: 1px solid #90caf9 !important ;
+}
