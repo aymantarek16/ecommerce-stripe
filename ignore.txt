@@ -1,0 +1,1 @@
+# Strapi_Email_Password.txt
