@@ -16,6 +16,7 @@ const ScrollToTop = () => {
           right: 33,
           borderRadius: "100%",
           transition: ".3s",
+          backgroundColor: "royalblue",
         }}
         color="primary"
         aria-label="add"
